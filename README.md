@@ -6,4 +6,6 @@ in oorder to use the data set you need to follow these steps:
 
 then in code were there is a direction you need to change it to the direction that the device has
 
+there is a zip that has test images that you can use in order to see the acurracy
+
 Happy Coding!!
